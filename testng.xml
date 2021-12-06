@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Goibibo Automation Test Suite">
+<test name="Goibibo Automation Test">
+<classes>
+<class name="com.goibibo.qa.testcases.RegressionTest"></class>
+</classes>
+</test>
+</suite>
